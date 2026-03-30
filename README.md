@@ -99,8 +99,8 @@ Seu objetivo é sobreviver tempo suficiente para encontrar todas as chaves e esc
 
 <ul>
   <li>🌙 Ambiente noturno em pixel art</li>
-  <li>✨ Efeitos de iluminação em habilidades</li>
-  <li>🔥 Partículas em ataques e combate</li>
+  <li>✨ Efeitos de iluminação em habilidades e cenario</li>
+  <li>🔥 Partículas nos ambiente</li>
   <li>💡 Destaque visual em itens importantes</li>
 </ul>
 
