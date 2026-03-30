@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: 770bc94e6b40ec74487f4576d677b659
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4789179107303807049
+    second: char_purple_1_specular_0
+  - first:
+      213: -5888970932107553903
+    second: char_purple_1_specular_1
+  - first:
+      213: 3186872551294320493
+    second: char_purple_1_specular_2
+  - first:
+      213: 4551888343815877930
+    second: char_purple_1_specular_3
+  - first:
+      213: 3122588986474421064
+    second: char_purple_1_specular_4
+  - first:
+      213: -2433215158812334477
+    second: char_purple_1_specular_5
+  - first:
+      213: 7787123214658798574
+    second: char_purple_1_specular_6
+  - first:
+      213: 5520931185411052291
+    second: char_purple_1_specular_7
+  - first:
+      213: 4084930893721210233
+    second: char_purple_1_specular_8
+  - first:
+      213: -6523400937648577287
+    second: char_purple_1_specular_9
+  - first:
+      213: -5800240220620854141
+    second: char_purple_1_specular_10
+  - first:
+      213: 1417009204668686689
+    second: char_purple_1_specular_11
+  - first:
+      213: 1055538066585991146
+    second: char_purple_1_specular_12
+  - first:
+      213: 1453691980591639426
+    second: char_purple_1_specular_13
+  - first:
+      213: 4278291457475243178
+    second: char_purple_1_specular_14
+  - first:
+      213: -8658141925803334453
+    second: char_purple_1_specular_15
+  - first:
+      213: 5178040160596433094
+    second: char_purple_1_specular_16
+  - first:
+      213: 8184541854291066742
+    second: char_purple_1_specular_17
+  - first:
+      213: -9127362148355093085
+    second: char_purple_1_specular_18
+  - first:
+      213: 4530092360043784710
+    second: char_purple_1_specular_19
+  - first:
+      213: 1933307864606631163
+    second: char_purple_1_specular_20
+  - first:
+      213: -2742852737524688846
+    second: char_purple_1_specular_21
+  - first:
+      213: 4614751781790120942
+    second: char_purple_1_specular_22
+  - first:
+      213: -2119068214861961871
+    second: char_purple_1_specular_23
+  - first:
+      213: 3971579604888136551
+    second: char_purple_1_specular_24
+  - first:
+      213: 575215430391254556
+    second: char_purple_1_specular_25
+  - first:
+      213: 4502996750850930509
+    second: char_purple_1_specular_26
+  - first:
+      213: -4702126394958943005
+    second: char_purple_1_specular_27
+  - first:
+      213: 4271447609225314633
+    second: char_purple_1_specular_28
+  - first:
+      213: 3999340218644430744
+    second: char_purple_1_specular_29
+  - first:
+      213: 1044499824680351235
+    second: char_purple_1_specular_30
+  - first:
+      213: 2352239252079809536
+    second: char_purple_1_specular_31
+  - first:
+      213: 6402562452657281479
+    second: char_purple_1_specular_32
+  - first:
+      213: 5167611536412851222
+    second: char_purple_1_specular_33
+  - first:
+      213: 6654800789118285057
+    second: char_purple_1_specular_34
+  - first:
+      213: -2652657823193261332
+    second: char_purple_1_specular_35
+  - first:
+      213: -8192118306182375246
+    second: char_purple_1_specular_36
+  - first:
+      213: 8060071703879882644
+    second: char_purple_1_specular_37
+  - first:
+      213: 7559839944512906933
+    second: char_purple_1_specular_38
+  - first:
+      213: 6253762965257770412
+    second: char_purple_1_specular_39
+  - first:
+      213: -2172120579566260089
+    second: char_purple_1_specular_40
+  - first:
+      213: 5412587470596593430
+    second: char_purple_1_specular_41
+  - first:
+      213: -3350790285225308683
+    second: char_purple_1_specular_42
+  - first:
+      213: 1429317029109009618
+    second: char_purple_1_specular_43
+  - first:
+      213: -6890582134180850564
+    second: char_purple_1_specular_44
+  - first:
+      213: 4514389148781453894
+    second: char_purple_1_specular_45
+  - first:
+      213: 7544405512431784250
+    second: char_purple_1_specular_46
+  - first:
+      213: -1649723046644804630
+    second: char_purple_1_specular_47
+  - first:
+      213: -4324861962460105151
+    second: char_purple_1_specular_48
+  - first:
+      213: 5989759079045443594
+    second: char_purple_1_specular_49
+  - first:
+      213: 3778959858150381429
+    second: char_purple_1_specular_50
+  - first:
+      213: -4574076981551824470
+    second: char_purple_1_specular_51
+  - first:
+      213: 1934925212703012113
+    second: char_purple_1_specular_52
+  - first:
+      213: -1650216802650845048
+    second: char_purple_1_specular_53
+  - first:
+      213: 2726901553415979841
+    second: char_purple_1_specular_54
+  - first:
+      213: 5168941677658463773
+    second: char_purple_1_specular_55
+  - first:
+      213: 2520343255699846716
+    second: char_purple_1_specular_56
+  - first:
+      213: -2542505522806139173
+    second: char_purple_1_specular_57
+  - first:
+      213: 2368545963946979688
+    second: char_purple_1_specular_58
+  - first:
+      213: 5040240464718206201
+    second: char_purple_1_specular_59
+  - first:
+      213: 1448964426104429776
+    second: char_purple_1_specular_60
+  - first:
+      213: -7506645095164112100
+    second: char_purple_1_specular_61
+  - first:
+      213: 1263603233515657239
+    second: char_purple_1_specular_62
+  - first:
+      213: -3977240672798394695
+    second: char_purple_1_specular_63
+  - first:
+      213: 5837409056741898923
+    second: char_purple_1_specular_64
+  - first:
+      213: -5233550497417943576
+    second: char_purple_1_specular_65
+  - first:
+      213: -1527203511727376708
+    second: char_purple_1_specular_66
+  - first:
+      213: -1880484058717956639
+    second: char_purple_1_specular_67
+  - first:
+      213: -454148270023779295
+    second: char_purple_1_specular_68
+  - first:
+      213: 8884956785924078163
+    second: char_purple_1_specular_69
+  - first:
+      213: 5495730415326497702
+    second: char_purple_1_specular_70
+  - first:
+      213: -4722424861680563660
+    second: char_purple_1_specular_71
+  - first:
+      213: 4911175689476427314
+    second: char_purple_1_specular_72
+  - first:
+      213: 7079931013441682014
+    second: char_purple_1_specular_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_purple_1_specular_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 559
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b72f6fd9fa698db0800000000000000
+      internalID: -4789179107303807049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 559
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193d02b632c264ea0800000000000000
+      internalID: -5888970932107553903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 559
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f375c53bb0a3c20800000000000000
+      internalID: 3186872551294320493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 559
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25f26ee45e8b2f30800000000000000
+      internalID: 4551888343815877930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 559
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bda56932aa55b20800000000000000
+      internalID: 3122588986474421064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 559
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37625ec64bb7b3ed0800000000000000
+      internalID: -2433215158812334477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 503
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee38fe74e4b611c60800000000000000
+      internalID: 7787123214658798574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 503
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3035dc779a94e9c40800000000000000
+      internalID: 5520931185411052291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 503
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d8544410790b830800000000000000
+      internalID: 4084930893721210233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 503
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4a100e8693875a0800000000000000
+      internalID: -6523400937648577287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 503
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ce5f51048618fa0800000000000000
+      internalID: -5800240220620854141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 503
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1616cbf2d5a3aa310800000000000000
+      internalID: 1417009204668686689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 503
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7b2c1774606ae00800000000000000
+      internalID: 1055538066585991146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 503
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28baff3872d8c2410800000000000000
+      internalID: 1453691980591639426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 447
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac6668c96b8f5b30800000000000000
+      internalID: 4278291457475243178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 447
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc463919ac918d780800000000000000
+      internalID: -8658141925803334453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 447
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c89e0577181cd740800000000000000
+      internalID: 5178040160596433094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 450
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ff552f375559170800000000000000
+      internalID: 8184541854291066742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 447
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adc2f22c78155180800000000000000
+      internalID: -9127362148355093085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 447
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aee10000f1ede30800000000000000
+      internalID: 4530092360043784710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_20
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 447
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4e85f724d74da10800000000000000
+      internalID: 1933307864606631163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 450
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23812aca7fd6fe9d0800000000000000
+      internalID: -2742852737524688846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 391
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb7338ab44ea0040800000000000000
+      internalID: 4614751781790120942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 391
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175e4569fae8792e0800000000000000
+      internalID: -2119068214861961871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 394
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b2b8abb92ed1730800000000000000
+      internalID: 3971579604888136551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_25
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 394
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e4bc5e2639bf700800000000000000
+      internalID: 575215430391254556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 394
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47353fdfabdd7e30800000000000000
+      internalID: 4502996750850930509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_27
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 394
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eceb7be4f0bebeb0800000000000000
+      internalID: -4702126394958943005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 399
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941019038fa374b30800000000000000
+      internalID: 4271447609225314633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_29
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 402
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ffb3c4db2808730800000000000000
+      internalID: 3999340218644430744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 344
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306b70a7e0fce7e00800000000000000
+      internalID: 1044499824680351235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 338
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00492f61325d4a020800000000000000
+      internalID: 2352239252079809536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 338
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c914e2e0a87ad850800000000000000
+      internalID: 6402562452657281479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_33
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 338
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c391d205b07b740800000000000000
+      internalID: 5167611536412851222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 338
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105726e1f0a9a5c50800000000000000
+      internalID: 6654800789118285057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_35
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 335
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea97e1a3cddf2bd0800000000000000
+      internalID: -2652657823193261332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_36
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 335
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b85602edcfbf4e80800000000000000
+      internalID: -8192118306182375246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_37
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 335
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49710f5b2802bdf60800000000000000
+      internalID: 8060071703879882644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 279
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b620833062f9e860800000000000000
+      internalID: 7559839944512906933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 279
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5dea57844d9c650800000000000000
+      internalID: 6253762965257770412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_40
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 279
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78033ad57d31bd1e0800000000000000
+      internalID: -2172120579566260089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_41
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 279
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617d3ac90af5d1b40800000000000000
+      internalID: 5412587470596593430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdc0542df99f71d0800000000000000
+      internalID: -3350790285225308683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 223
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc857fd344f5d310800000000000000
+      internalID: 1429317029109009618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c745f7c8e0cbf50a0800000000000000
+      internalID: -6890582134180850564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_45
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 225
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6422ff6330556ae30800000000000000
+      internalID: 4514389148781453894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 246
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31def177dc13b860800000000000000
+      internalID: 7544405512431784250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 225
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae316f231a10b19e0800000000000000
+      internalID: -1649723046644804630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 249
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14677f095f00bf3c0800000000000000
+      internalID: -4324861962460105151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 225
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00bca4b526ef1350800000000000000
+      internalID: 5989759079045443594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_50
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 243
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577938d18ff817430800000000000000
+      internalID: 3778959858150381429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_51
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 223
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa10053483d9580c0800000000000000
+      internalID: -4574076981551824470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_52
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 237
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1153c12ba3c3ada10800000000000000
+      internalID: 1934925212703012113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_53
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 223
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8809d9baf804919e0800000000000000
+      internalID: -1650216802650845048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_54
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 233
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14302dcd386e7d520800000000000000
+      internalID: 2726901553415979841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e5b81d115cbb740800000000000000
+      internalID: 5168941677658463773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 172
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c367a0476de0af220800000000000000
+      internalID: 2520343255699846716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_57
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 167
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6dba1a2b437bcd0800000000000000
+      internalID: -2542505522806139173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 167
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861be3f4104ced020800000000000000
+      internalID: 2368545963946979688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_59
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 167
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f414129ff782f540800000000000000
+      internalID: 5040240464718206201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 111
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcd126f771cb1410800000000000000
+      internalID: 1448964426104429776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1390dfce0a03d790800000000000000
+      internalID: -7506645095164112100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_62
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 111
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7185cbe2278398110800000000000000
+      internalID: 1263603233515657239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 111
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6bd9f2ea00ec8c0800000000000000
+      internalID: -3977240672798394695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_64
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 111
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baabfb3fb94a20150800000000000000
+      internalID: 5837409056741898923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_65
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 111
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5a5571d81be57b0800000000000000
+      internalID: -5233550497417943576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_66
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 111
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6b2cf5f784ecae0800000000000000
+      internalID: -1527203511727376708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_67
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 111
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5d45a36bd27e5e0800000000000000
+      internalID: -1880484058717956639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_68
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cdfd9fd8a82b9f0800000000000000
+      internalID: -454148270023779295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_69
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 55
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a73bd4f15bd4b70800000000000000
+      internalID: 8884956785924078163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 55
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab88d2f1b1c44c40800000000000000
+      internalID: 5495730415326497702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_71
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a8e09db93967eb0800000000000000
+      internalID: -4722424861680563660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_72
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ec6c0e440082440800000000000000
+      internalID: 4911175689476427314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_purple_1_specular_73
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a7672eeb7f04260800000000000000
+      internalID: 7079931013441682014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      char_purple_1_specular_0: -4789179107303807049
+      char_purple_1_specular_1: -5888970932107553903
+      char_purple_1_specular_10: -5800240220620854141
+      char_purple_1_specular_11: 1417009204668686689
+      char_purple_1_specular_12: 1055538066585991146
+      char_purple_1_specular_13: 1453691980591639426
+      char_purple_1_specular_14: 4278291457475243178
+      char_purple_1_specular_15: -8658141925803334453
+      char_purple_1_specular_16: 5178040160596433094
+      char_purple_1_specular_17: 8184541854291066742
+      char_purple_1_specular_18: -9127362148355093085
+      char_purple_1_specular_19: 4530092360043784710
+      char_purple_1_specular_2: 3186872551294320493
+      char_purple_1_specular_20: 1933307864606631163
+      char_purple_1_specular_21: -2742852737524688846
+      char_purple_1_specular_22: 4614751781790120942
+      char_purple_1_specular_23: -2119068214861961871
+      char_purple_1_specular_24: 3971579604888136551
+      char_purple_1_specular_25: 575215430391254556
+      char_purple_1_specular_26: 4502996750850930509
+      char_purple_1_specular_27: -4702126394958943005
+      char_purple_1_specular_28: 4271447609225314633
+      char_purple_1_specular_29: 3999340218644430744
+      char_purple_1_specular_3: 4551888343815877930
+      char_purple_1_specular_30: 1044499824680351235
+      char_purple_1_specular_31: 2352239252079809536
+      char_purple_1_specular_32: 6402562452657281479
+      char_purple_1_specular_33: 5167611536412851222
+      char_purple_1_specular_34: 6654800789118285057
+      char_purple_1_specular_35: -2652657823193261332
+      char_purple_1_specular_36: -8192118306182375246
+      char_purple_1_specular_37: 8060071703879882644
+      char_purple_1_specular_38: 7559839944512906933
+      char_purple_1_specular_39: 6253762965257770412
+      char_purple_1_specular_4: 3122588986474421064
+      char_purple_1_specular_40: -2172120579566260089
+      char_purple_1_specular_41: 5412587470596593430
+      char_purple_1_specular_42: -3350790285225308683
+      char_purple_1_specular_43: 1429317029109009618
+      char_purple_1_specular_44: -6890582134180850564
+      char_purple_1_specular_45: 4514389148781453894
+      char_purple_1_specular_46: 7544405512431784250
+      char_purple_1_specular_47: -1649723046644804630
+      char_purple_1_specular_48: -4324861962460105151
+      char_purple_1_specular_49: 5989759079045443594
+      char_purple_1_specular_5: -2433215158812334477
+      char_purple_1_specular_50: 3778959858150381429
+      char_purple_1_specular_51: -4574076981551824470
+      char_purple_1_specular_52: 1934925212703012113
+      char_purple_1_specular_53: -1650216802650845048
+      char_purple_1_specular_54: 2726901553415979841
+      char_purple_1_specular_55: 5168941677658463773
+      char_purple_1_specular_56: 2520343255699846716
+      char_purple_1_specular_57: -2542505522806139173
+      char_purple_1_specular_58: 2368545963946979688
+      char_purple_1_specular_59: 5040240464718206201
+      char_purple_1_specular_6: 7787123214658798574
+      char_purple_1_specular_60: 1448964426104429776
+      char_purple_1_specular_61: -7506645095164112100
+      char_purple_1_specular_62: 1263603233515657239
+      char_purple_1_specular_63: -3977240672798394695
+      char_purple_1_specular_64: 5837409056741898923
+      char_purple_1_specular_65: -5233550497417943576
+      char_purple_1_specular_66: -1527203511727376708
+      char_purple_1_specular_67: -1880484058717956639
+      char_purple_1_specular_68: -454148270023779295
+      char_purple_1_specular_69: 8884956785924078163
+      char_purple_1_specular_7: 5520931185411052291
+      char_purple_1_specular_70: 5495730415326497702
+      char_purple_1_specular_71: -4722424861680563660
+      char_purple_1_specular_72: 4911175689476427314
+      char_purple_1_specular_73: 7079931013441682014
+      char_purple_1_specular_8: 4084930893721210233
+      char_purple_1_specular_9: -6523400937648577287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
