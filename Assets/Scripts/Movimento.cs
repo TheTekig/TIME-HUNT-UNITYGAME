@@ -26,7 +26,7 @@ public class Movimento : MonoBehaviour
     [SerializeField] private float tempoDash = 0.3f;
     [SerializeField] private float forcaDash = 20f;
     [SerializeField] private float CoolDownDash = 0.2f;
-    [SerializeField] private TrailRenderer trailRenderer;
+    [SerializeField] private TrailRenderer[] trailRenderer;
     [SerializeField] private JogadorUI jogadorUI;
 
     void Start()
@@ -39,7 +39,11 @@ public class Movimento : MonoBehaviour
 
         animator = GetComponent<Animator>();
 
-        trailRenderer.emitting = false;
+        foreach (TrailRenderer trail in trailRenderer)
+        {
+            trail.emitting = false;
+        }
+            
     }
 
     //Update e chamado um ver por frame
@@ -129,7 +133,10 @@ public class Movimento : MonoBehaviour
 
     private IEnumerator RealizarDash()
     {
-        trailRenderer.emitting = true;
+        foreach (TrailRenderer trail in trailRenderer)
+        {
+            trail.emitting = true;
+        }
 
         dashLiberado = false;
         //Parar de mover o personagem durante o dash
@@ -155,7 +162,10 @@ public class Movimento : MonoBehaviour
         //Duracao do dash
         yield return new WaitForSeconds(tempoDash);
 
-        trailRenderer.emitting = false;
+        foreach (TrailRenderer trail in trailRenderer)
+        {
+            trail.emitting = false;
+        }
         executandoDash = false;
         rb.gravityScale = 1;
         //Zera a velocidade do personagem apos o dash
