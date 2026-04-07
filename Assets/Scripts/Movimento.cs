@@ -29,6 +29,8 @@ public class Movimento : MonoBehaviour
     [SerializeField] private TrailRenderer[] trailRenderer;
     [SerializeField] private JogadorUI jogadorUI;
 
+    public float TempoDash => tempoDash;
+
     void Start()
     {
         //Este script esta associado ao personagem; o metodo GetComponent busca no 
@@ -178,7 +180,7 @@ public class Movimento : MonoBehaviour
         while (contador < CoolDownDash)
         {   
             contador += Time.deltaTime;
-            jogadorUI.AtualizarProgressoDash(contador / 3f);
+            jogadorUI.AtualizarProgressoDash(contador / CoolDownDash);
 
             yield return null;
         }

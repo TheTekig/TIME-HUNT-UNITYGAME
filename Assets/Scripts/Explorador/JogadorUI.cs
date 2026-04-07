@@ -10,7 +10,12 @@ public class JogadorUI : MonoBehaviour
     [SerializeField] private Image bolaFogoProgresso;
 
     [SerializeField] private Slider barraVidaSlider;
+    private Movimento mov;
 
+    private void Start()
+    {
+        mov = GetComponent<Movimento>();
+    }
 
     public void AtualizarVidaMaxima(int vidaAtual, int vidaMaxima)
     {
@@ -34,7 +39,10 @@ public class JogadorUI : MonoBehaviour
 
     public void AtualizarProgressoDash(float progresso)
     {
-        dashProgresso.fillAmount = progresso;
+        // Debug.Log($"Tempo Dash: {mov.TempoDash}  Progresso: {progresso}");
+        float valorFinal = progresso / mov.TempoDash;
+        dashProgresso.fillAmount = Mathf.Clamp01(valorFinal);
+        
 
     }
 
