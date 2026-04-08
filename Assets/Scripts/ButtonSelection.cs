@@ -6,8 +6,13 @@ public class ButtonSelection : MonoBehaviour, IPointerEnterHandler, IPointerExit
     [SerializeField] private AudioSource SoundOnEnter;
     [SerializeField] private AudioSource SoundOnExit;
 
+
+
+
+
     public void OnPointerEnter(PointerEventData eventData)
     {
+        
         SoundOnEnter.Play();
         
     }
@@ -18,4 +23,6 @@ public class ButtonSelection : MonoBehaviour, IPointerEnterHandler, IPointerExit
         SoundOnExit.Play();
 
     }
+
+  
 }

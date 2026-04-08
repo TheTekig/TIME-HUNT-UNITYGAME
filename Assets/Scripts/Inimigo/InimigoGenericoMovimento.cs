@@ -12,7 +12,7 @@ public class InimigoGenericoMovimento : InimigoEstado
     private bool alvoEncontrado;
     [SerializeField] private ControladorHitBox controladorHitbox;
 
-    void Start()
+    void Awake()
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
