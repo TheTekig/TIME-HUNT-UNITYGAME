@@ -40,11 +40,6 @@ public class MageMoviment : InimigoEstado
     {
         if (controladorHitbox.ExisteAlvosDisponiveis())
         {
-            rb.linearVelocity = Vector2.zero;
-            animator.SetBool("andar", false);
-
-            alvoEncontrado = true;
-
             return typeof(MageAttack);
         }
 

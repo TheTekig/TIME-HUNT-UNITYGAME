@@ -10,6 +10,9 @@ public class MageFugir : InimigoEstado
     private Rigidbody2D rb;
     private Transform player;
 
+    private float timerVerificacao = 0f;
+    private const float intervaloVerificacao = 0.1f;
+
     void Awake()
     {
         animator = GetComponent<Animator>();
@@ -31,12 +34,16 @@ public class MageFugir : InimigoEstado
     public override Type OnUpdate()
     {
         
-        
-
-        if (!fugaHitbox.ExisteAlvosDisponiveis())
+        timerVerificacao += Time.deltaTime;
+        if (timerVerificacao >= intervaloVerificacao)
         {
-            return typeof(MageAttack);
+            timerVerificacao = 0f;
+            if (!fugaHitbox.ExisteAlvosDisponiveis())
+            {
+                return typeof(MageAttack);
+            }
         }
+        
 
         RealizarFuga();
         return null;

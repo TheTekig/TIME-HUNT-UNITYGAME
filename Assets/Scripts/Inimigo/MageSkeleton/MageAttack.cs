@@ -18,6 +18,9 @@ public class MageAttack : InimigoEstado
 
     [SerializeField] private ControladorHitBox controladorHitBoxFuga;
 
+    private float timerVerificacao = 0f;
+    private const float intervaloVerificacao = 0.1f;
+
     void Start()
     {
         animator = GetComponent<Animator>();
@@ -34,6 +37,10 @@ public class MageAttack : InimigoEstado
 
     public override Type OnUpdate()
     {
+        timerVerificacao += Time.deltaTime;
+        if (timerVerificacao < intervaloVerificacao) return null;
+        timerVerificacao = 0f;
+
         if(controladorHitBoxFuga.ExisteAlvosDisponiveis())
         {
             contador = 0;
@@ -45,7 +52,7 @@ public class MageAttack : InimigoEstado
         {
             girarInimigo();
 
-            contador += Time.deltaTime;
+            contador += intervaloVerificacao;
             if (contador >= intervaloAtaque)
             {
                 animator.SetTrigger("atacar");
