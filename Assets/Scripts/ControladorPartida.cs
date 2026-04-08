@@ -19,6 +19,8 @@ public class ControladorPartida : MonoBehaviour
     [SerializeField] private TMP_Text chavesColetadasGameOverText;
     [SerializeField] private TMP_Text scoreGameOverText;
 
+    [SerializeField] private AudioSource gameOverAudioSource;
+
 
     public static ControladorPartida Instance { get; private set; }
 
@@ -54,6 +56,8 @@ public class ControladorPartida : MonoBehaviour
 
     public void finalizarPartida(bool vitoria)
     {
+        gameOverAudioSource.Play();
+
         Time.timeScale = 0;
         gameOverPanel.SetActive(true);
 

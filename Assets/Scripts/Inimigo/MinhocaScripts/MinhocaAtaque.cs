@@ -13,6 +13,8 @@ public class MinhocaAtaque : InimigoEstado
     [SerializeField] private int dano;
     [SerializeField] private int velocidade;
 
+    [SerializeField] private AudioSource bolaDeFogoSound;
+
     void Start()
     {
         animator = GetComponent<Animator>();
@@ -45,7 +47,7 @@ public class MinhocaAtaque : InimigoEstado
 
     public void RealizarAtaque()
     {
-
+        bolaDeFogoSound.Play();
         Projetil projetil = Instantiate(bolaDeFogo, pontoDeLancamento.position, Quaternion.identity);
 
         projetil.IniciarLancamento(player, velocidade, dano, true);

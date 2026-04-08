@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 93b929b565de5414dbbccbafef58e9f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3281414192438716488
+    second: Ifes_Logo.svg_0
+  - first:
+      213: 3306210821510347210
+    second: Ifes_Logo.svg_1
+  - first:
+      213: 5307171457031758388
+    second: Ifes_Logo.svg_2
+  - first:
+      213: -3904660053101743232
+    second: Ifes_Logo.svg_3
+  - first:
+      213: 5125821860499387584
+    second: Ifes_Logo.svg_4
+  - first:
+      213: -7665172677614103528
+    second: Ifes_Logo.svg_5
+  - first:
+      213: -4829467258219229297
+    second: Ifes_Logo.svg_6
+  - first:
+      213: 6277295777450111688
+    second: Ifes_Logo.svg_7
+  - first:
+      213: 5112307983591167667
+    second: Ifes_Logo.svg_8
+  - first:
+      213: 4579750393445473006
+    second: Ifes_Logo.svg_9
+  - first:
+      213: -1570457871661291689
+    second: Ifes_Logo.svg_10
+  - first:
+      213: -2740947340073747481
+    second: Ifes_Logo.svg_11
+  - first:
+      213: -4020478988679744845
+    second: Ifes_Logo.svg_12
+  - first:
+      213: -2069338142174310936
+    second: Ifes_Logo.svg_13
+  - first:
+      213: 6655496207929927555
+    second: Ifes_Logo.svg_14
+  - first:
+      213: -2190647306718582492
+    second: Ifes_Logo.svg_15
+  - first:
+      213: -2769849553061276826
+    second: Ifes_Logo.svg_16
+  - first:
+      213: -362443937763177966
+    second: Ifes_Logo.svg_17
+  - first:
+      213: -4954814832528613151
+    second: Ifes_Logo.svg_18
+  - first:
+      213: -2500538764393849004
+    second: Ifes_Logo.svg_19
+  - first:
+      213: 6468144984143503350
+    second: Ifes_Logo.svg_20
+  - first:
+      213: 6636249438519464494
+    second: Ifes_Logo.svg_21
+  - first:
+      213: 157825998443094625
+    second: Ifes_Logo.svg_22
+  - first:
+      213: -7475379973713008961
+    second: Ifes_Logo.svg_23
+  - first:
+      213: 1502111565611184575
+    second: Ifes_Logo.svg_24
+  - first:
+      213: 2154721081412003154
+    second: Ifes_Logo.svg_25
+  - first:
+      213: 1783935014098283768
+    second: Ifes_Logo.svg_26
+  - first:
+      213: -7205052183689311852
+    second: Ifes_Logo.svg_27
+  - first:
+      213: 1920595172837642402
+    second: Ifes_Logo.svg_28
+  - first:
+      213: 8162641400267936639
+    second: Ifes_Logo.svg_29
+  - first:
+      213: -6937677170534246829
+    second: Ifes_Logo.svg_30
+  - first:
+      213: 8060599507017454183
+    second: Ifes_Logo.svg_31
+  - first:
+      213: -2008781054191690521
+    second: Ifes_Logo.svg_32
+  - first:
+      213: -6211648886014122048
+    second: Ifes_Logo.svg_33
+  - first:
+      213: 6645857399587740201
+    second: Ifes_Logo.svg_34
+  - first:
+      213: 6380377305432298720
+    second: Ifes_Logo.svg_35
+  - first:
+      213: 7385542392146936477
+    second: Ifes_Logo.svg_36
+  - first:
+      213: 2113104212795068323
+    second: Ifes_Logo.svg_37
+  - first:
+      213: 8763954245433153762
+    second: Ifes_Logo.svg_38
+  - first:
+      213: 7049883695198123637
+    second: Ifes_Logo.svg_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ifes_Logo.svg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3840
+        height: 3840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8482c3582dce98d20800000000000000
+      internalID: 3281414192438716488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5016df11a4b95364fa52df72ab872950
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ifes_Logo.svg_0: 3281414192438716488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

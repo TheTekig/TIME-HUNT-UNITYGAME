@@ -17,6 +17,9 @@ public class Ataque : MonoBehaviour
     private bool espadaLiberada = true;
 
 
+    [SerializeField] private AudioSource ataqueEspadaAudioSource;
+    [SerializeField] private AudioSource ataqueBolaDeFogoAudioSource;
+
     private Animator animator;
 
     void Start()
@@ -37,6 +40,8 @@ public class Ataque : MonoBehaviour
 
     private IEnumerator AtacarComEspada()
     {
+        ataqueEspadaAudioSource.Play();
+
         espadaLiberada = false;
         animator.SetTrigger("ataqueEspada");
 
@@ -44,10 +49,10 @@ public class Ataque : MonoBehaviour
 
         float contador = 0f;
 
-        while(contador < 0.6f)
+        while(contador < 0.8f)
         {
             contador += Time.deltaTime; 
-            jogadorUI.AtualizarProgressoEspada(contador/0.6f);
+            jogadorUI.AtualizarProgressoEspada(contador/0.8f);
             yield return null;
         }
          //Tempo de ataque da espada
@@ -57,6 +62,8 @@ public class Ataque : MonoBehaviour
 
     private IEnumerator AtacarComBolaDeFogo()
     {
+        ataqueBolaDeFogoAudioSource.Play();
+
         bolaDeFogoLiberada = false;
 
         Instantiate(efeitoCriacaoBoladeFogo, PosicaoefeitoBoladeFogo.position, PosicaoefeitoBoladeFogo.rotation);

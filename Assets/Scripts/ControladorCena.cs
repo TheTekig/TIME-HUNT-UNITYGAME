@@ -1,11 +1,21 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class ControladorCena : MonoBehaviour
 {
-    public void CarregarCena(string cenaIndex)
+    public void CarregarCena(string cenaName)
     {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene(cenaIndex);
+        Time.timeScale = 1;
+        StartCoroutine(Delay(0.37f, cenaName));
+    }
+
+    IEnumerator Delay(float tempo, string cenaName)
+    {
+        yield return new WaitForSecondsRealtime(tempo);
+        LoadingManager.sceneToLoad = cenaName;
+        SceneManager.LoadScene("LoadingScene");
     }
 }
+
+

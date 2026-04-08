@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 2d5f38c02e709cb4fb05d5142ee721cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6633884073871227945
+    second: ifes-horizontal-branco_0
+  - first:
+      213: -8791127456566830625
+    second: ifes-horizontal-branco_1
+  - first:
+      213: -2225523647207863223
+    second: ifes-horizontal-branco_2
+  - first:
+      213: 1582646288201495116
+    second: ifes-horizontal-branco_3
+  - first:
+      213: -2977835804719122043
+    second: ifes-horizontal-branco_4
+  - first:
+      213: -5500946198042564009
+    second: ifes-horizontal-branco_5
+  - first:
+      213: 5828974513574196811
+    second: ifes-horizontal-branco_6
+  - first:
+      213: -1537478015070231421
+    second: ifes-horizontal-branco_7
+  - first:
+      213: 7554781727557167079
+    second: ifes-horizontal-branco_8
+  - first:
+      213: 2253049537666603828
+    second: ifes-horizontal-branco_9
+  - first:
+      213: 2476634031429838978
+    second: ifes-horizontal-branco_10
+  - first:
+      213: -2938856974076902406
+    second: ifes-horizontal-branco_11
+  - first:
+      213: -372016284446687545
+    second: ifes-horizontal-branco_12
+  - first:
+      213: 7633389856543147478
+    second: ifes-horizontal-branco_13
+  - first:
+      213: -8926633486011726298
+    second: ifes-horizontal-branco_14
+  - first:
+      213: 2803998200081348494
+    second: ifes-horizontal-branco_15
+  - first:
+      213: -9094303543158944652
+    second: ifes-horizontal-branco_16
+  - first:
+      213: -161052067874823342
+    second: ifes-horizontal-branco_17
+  - first:
+      213: -8536438174949999159
+    second: ifes-horizontal-branco_18
+  - first:
+      213: -5799288976923706698
+    second: ifes-horizontal-branco_19
+  - first:
+      213: -4025650496745993558
+    second: ifes-horizontal-branco_20
+  - first:
+      213: 5943885990632372606
+    second: ifes-horizontal-branco_21
+  - first:
+      213: 6550097661509604236
+    second: ifes-horizontal-branco_22
+  - first:
+      213: 4715358422477450073
+    second: ifes-horizontal-branco_23
+  - first:
+      213: 5001341271617009284
+    second: ifes-horizontal-branco_24
+  - first:
+      213: -1414133164757892857
+    second: ifes-horizontal-branco_25
+  - first:
+      213: 3860864113801157265
+    second: ifes-horizontal-branco_26
+  - first:
+      213: -1828184663363155733
+    second: ifes-horizontal-branco_27
+  - first:
+      213: -4919768799404730390
+    second: ifes-horizontal-branco_28
+  - first:
+      213: -2335760189598261709
+    second: ifes-horizontal-branco_29
+  - first:
+      213: -7652245734195364026
+    second: ifes-horizontal-branco_30
+  - first:
+      213: 4286526649497816775
+    second: ifes-horizontal-branco_31
+  - first:
+      213: -8064641276785845350
+    second: ifes-horizontal-branco_32
+  - first:
+      213: 3631728214102861146
+    second: ifes-horizontal-branco_33
+  - first:
+      213: 4263959659531253517
+    second: ifes-horizontal-branco_34
+  - first:
+      213: -3925719340084470757
+    second: ifes-horizontal-branco_35
+  - first:
+      213: 8055851973960190710
+    second: ifes-horizontal-branco_36
+  - first:
+      213: 5920181279321213945
+    second: ifes-horizontal-branco_37
+  - first:
+      213: 5623856758776709573
+    second: ifes-horizontal-branco_38
+  - first:
+      213: 3597883035607979583
+    second: ifes-horizontal-branco_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ifes-horizontal-branco_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2835
+        height: 1134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c3738da6a401c50800000000000000
+      internalID: 6633884073871227945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f65ad3aad8138434691dcb23dc5c4efc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ifes-horizontal-branco_0: 6633884073871227945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,6 +7,8 @@ public class InimigoGenericoAtaque : InimigoEstado
     [SerializeField] private ControladorHitBox controladorHitbox;
     [SerializeField] private float tempoReacao;
 
+    [SerializeField] private AudioSource ataqueEspada;
+
     private Animator animator;
     private Type proximoEstado = null;
 
@@ -33,6 +35,7 @@ public class InimigoGenericoAtaque : InimigoEstado
 
     private void IniciarAtaque()
     {
+        ataqueEspada.Play();
         animator.SetTrigger("ataqueEspada");
     }
 

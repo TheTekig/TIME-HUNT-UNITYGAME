@@ -6,6 +6,7 @@ public class ControladorChaves : MonoBehaviour
     [SerializeField] private GameObject chavesPrefab;
     [SerializeField] private List<Transform> pontosSpawn;
     [SerializeField] private GameObject efeitoParticulas;
+    [SerializeField] private AudioSource chaveColetadaAudioSource;
 
     void Start()
     {
@@ -27,6 +28,7 @@ public class ControladorChaves : MonoBehaviour
     {
         if (collision.gameObject.tag == "chave")
         {
+            chaveColetadaAudioSource.Play();
             Instantiate(efeitoParticulas, collision.transform.position, collision.transform.rotation);
             collision.collider.enabled = false;
             ControladorPartida.Instance.NovaChaveColetada();
