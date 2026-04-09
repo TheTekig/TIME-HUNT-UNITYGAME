@@ -3,122 +3,105 @@ using UnityEngine.UI;
 using TMPro;
 using System.Collections.Generic;
 
-
 public class ConfiguracaoQualidade : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI qualityButtonWrite;
     [SerializeField] TMP_InputField fpsLimit;
     [SerializeField] TMP_Dropdown resolutionDropDown;
-    Resolution[] resolutionsSuportadas;
 
+    List<Resolution> resolucoesUnicas = new List<Resolution>();
     List<string> OpcoesQualidade = new List<string> { "BAIXO", "MEDIO", "ALTO" };
+
     private int qualityLevel;
     int frameRate = 60;
+    int resolucaoSelecionada = 0;
 
     void Start()
     {
         QualitySettings.vSyncCount = 0;
-        Screen.fullScreenMode = FullScreenMode.Windowed;
         qualityLevel = 0;
         qualityButtonWrite.text = OpcoesQualidade[qualityLevel];
-
-        fpsLimit.text = frameRate.ToString() + "FPS";
+        fpsLimit.text = frameRate.ToString() + " FPS";
         Application.targetFrameRate = frameRate;
-
         ConfigurarDropDownResolucao();
     }
 
     public void AlterarQualidade()
     {
         qualityLevel++;
-        if (qualityLevel >= 3) qualityLevel = 0;   
-        
+        if (qualityLevel >= 3) qualityLevel = 0;
+
         qualityButtonWrite.text = OpcoesQualidade[qualityLevel];
         QualitySettings.SetQualityLevel(qualityLevel, true);
-
         QualitySettings.vSyncCount = 0;
-            
-            
     }
 
+    // OnEndEdit do InputField
     public void LimitarFPS(string input)
     {
         string apenasNumeros = input.Replace("FPS", "").Trim();
-        
-        if (int.TryParse(apenasNumeros, out int novoFPS))
-        {
-            frameRate = novoFPS;
-        }
-        else
-        {
-            frameRate = 60;
-        }
 
-            Application.targetFrameRate = frameRate;
-        fpsLimit.text = frameRate.ToString() + "FPS";
+        frameRate = (int.TryParse(apenasNumeros, out int novoFPS) && novoFPS > 0) ? novoFPS : 60;
+
+        Application.targetFrameRate = frameRate;
+        fpsLimit.text = frameRate.ToString() + " FPS";
     }
 
     public void AlterarModoTela(bool telaCheia)
     {
-        if (telaCheia)
+        // No Unity 6 Windows: sempre seta resolução junto com o modo
+        if (resolucaoSelecionada < resolucoesUnicas.Count)
         {
-            Screen.fullScreenMode = FullScreenMode.FullScreenWindow;
+            Resolution res = resolucoesUnicas[resolucaoSelecionada];
+            FullScreenMode modo = telaCheia ? FullScreenMode.FullScreenWindow : FullScreenMode.Windowed;
+            Screen.SetResolution(res.width, res.height, modo, res.refreshRateRatio);
         }
-        else
-        {
-            Screen.fullScreenMode = FullScreenMode.Windowed;
-        }
-
-        
     }
 
     void ConfigurarDropDownResolucao()
     {
-
         Resolution[] todasResolucoes = Screen.resolutions;
         resolutionDropDown.ClearOptions();
+        resolucoesUnicas.Clear();
 
         List<string> opcoes = new List<string>();
-        List<Resolution> resolucoes169 = new List<Resolution>();
         int resolucaoAtualIndex = 0;
 
-        for (int i = 0; i < todasResolucoes.Length; i++)
+        foreach (Resolution res in todasResolucoes)
         {
-            float proporcao = (float)todasResolucoes[i].width / todasResolucoes[i].height;
+            float proporcao = (float)res.width / res.height;
+            if (Mathf.Abs(proporcao - 1.777778f) >= 0.01f) continue;
 
-            if (Mathf.Abs(proporcao - 1.777778f) < 0.01f)
+            string opcao = res.width + "x" + res.height;
+
+            if (!opcoes.Contains(opcao))
             {
-                resolucoes169.Add(todasResolucoes[i]);
+                opcoes.Add(opcao);
+                resolucoesUnicas.Add(res);
 
-                string opcao = todasResolucoes[i].width + "x" + todasResolucoes[i].height;
-
-                if (!opcoes.Contains(opcao))
-                {
-                    opcoes.Add(opcao);
-                }
-
-                if (todasResolucoes[i].width == Screen.currentResolution.width && todasResolucoes[i].height == Screen.currentResolution.height)
+                if (res.width == Screen.currentResolution.width &&
+                    res.height == Screen.currentResolution.height)
                 {
                     resolucaoAtualIndex = opcoes.Count - 1;
                 }
             }
         }
 
-        resolutionsSuportadas = resolucoes169.ToArray();
-
         resolutionDropDown.AddOptions(opcoes);
         resolutionDropDown.value = resolucaoAtualIndex;
+        resolucaoSelecionada = resolucaoAtualIndex; // salva o índice atual
         resolutionDropDown.RefreshShownValue();
     }
 
     public void AlterarResolucao(int indiceResolucao)
     {
-        Resolution res = resolutionsSuportadas[indiceResolucao];
-        Screen.SetResolution(res.width, res.height, Screen.fullScreen);
-    }
+        if (indiceResolucao < 0 || indiceResolucao >= resolucoesUnicas.Count) return;
 
-    void Update()
-    {
-        
+        resolucaoSelecionada = indiceResolucao; // salva pra usar no AlterarModoTela também
+
+        Resolution res = resolucoesUnicas[indiceResolucao];
+
+        // Unity 6: passa refreshRateRatio em vez de bool
+        Screen.SetResolution(res.width, res.height, Screen.fullScreenMode, res.refreshRateRatio);
     }
 }

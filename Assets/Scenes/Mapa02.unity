@@ -126208,6 +126208,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SoundOnEnter: {fileID: 672995072}
   SoundOnExit: {fileID: 87549477}
+  TextMeshPro: {fileID: 1831988239}
+  sizeIncrese: 5
 --- !u!114 &1665735619
 MonoBehaviour:
   m_ObjectHideFlags: 0
