@@ -3,10 +3,12 @@ using Unity.VisualScripting;
 using UnityEngine;  
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using TMPro;
 
 public class UILevelSelect : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler 
 {
-
+    [SerializeField] private TextMeshProUGUI m_TextMeshPro;
+    int TextSize = 40;
 
     [SerializeField] GameObject icon;
 
@@ -22,12 +24,14 @@ public class UILevelSelect : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
 
     void Start()
     {
-        
+        m_TextMeshPro.fontSize = TextSize;
     }
 
     public void OnPointerEnter(PointerEventData eventData)
     {
         SoundOnEnter.Play();
+        m_TextMeshPro.fontSize = TextSize + 5;
+
         if (icon != null) icon.SetActive(true);
 
         if (slideCoroutine != null) StopCoroutine(slideCoroutine);
@@ -38,6 +42,7 @@ public class UILevelSelect : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
     {
         
         SoundOnExit.Play();
+        m_TextMeshPro.fontSize = TextSize;
         if (slideCoroutine != null) StopCoroutine(slideCoroutine);
         slideCoroutine = StartCoroutine(SlidePanel(hiddenPosX));
     }

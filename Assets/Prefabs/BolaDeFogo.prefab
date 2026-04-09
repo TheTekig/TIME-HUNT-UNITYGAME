@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2450738927443356698}
   - component: {fileID: 5147933027436448575}
   - component: {fileID: 1279644964529269581}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: FireVermelho
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -111,7 +111,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1824646324007702891}
   - component: {fileID: 453940359311089832}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: FireBranco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -196,7 +196,7 @@ GameObject:
   - component: {fileID: 4865398574542143683}
   - component: {fileID: 7386530490919441202}
   - component: {fileID: 4466378983052103561}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: FireAmarelo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -300,7 +300,7 @@ GameObject:
   - component: {fileID: 2398026893330044689}
   - component: {fileID: 623280263786820392}
   - component: {fileID: 7159216738815380244}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: BolaDeFogo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -368,7 +368,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 3
+  m_SortingOrder: 8
   m_Sprite: {fileID: 3743957659742367504, guid: b8dc37f6c799d4d46804c29eb03d2dfa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

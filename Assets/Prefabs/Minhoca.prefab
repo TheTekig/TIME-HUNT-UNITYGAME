@@ -1313,7 +1313,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controladorHitbox: {fileID: 624923159954384398}
   intervaloAtaque: 2
-  bolaDeFogo: {fileID: 7159216738815380244, guid: af5c8b6ae7e757942948ce34c0684920, type: 3}
+  bolaDeFogo: {fileID: 7159216738815380244, guid: 39aac887713d58e48be92e37ea264ff1, type: 3}
   pontoDeLancamento: {fileID: 8972647428711540804}
   dano: 20
   velocidade: 5
